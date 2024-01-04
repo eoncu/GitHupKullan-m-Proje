@@ -5,5 +5,8 @@ public class GitHupKullanimi1 {
         System.out.println("hello world");
 
         System.out.println("That's it");
+
+
+        System.out.println("Zeynep brachında ortak classda değişiklik yaptım");
     }
 }
