@@ -6,7 +6,12 @@ public class GitHupKullanimi1 {
 
         System.out.println("That's it");
 
+
         System.out.println("main branch değişiklik 1. satır");
         System.out.println("main branch değişiklik 2. satır");
+
+
+        System.out.println("Zeynep brachında ortak classda değişiklik yaptım");
+
     }
 }
